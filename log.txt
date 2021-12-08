@@ -1,0 +1,23 @@
+commit dbf045fe948598a6ab69c75627a93ac7ed0c8aeb
+Author: AmrElagoz <87224226+AmrAhmedElagoz@users.noreply.github.com>
+Date:   Wed Dec 8 00:28:46 2021 +0200
+
+    deleted last 25 rows
+
+commit 228c583952af23938fa7b887c721c37167f3a905
+Author: AmrElagoz <87224226+AmrAhmedElagoz@users.noreply.github.com>
+Date:   Tue Dec 7 23:57:49 2021 +0200
+
+    adding Original data
+
+commit 0b4ce5159e662dc010b45d7e5c3a2b6cf924aab0
+Author: AmrElagoz <87224226+AmrAhmedElagoz@users.noreply.github.com>
+Date:   Tue Dec 7 23:52:42 2021 +0200
+
+    commit dvc config
+
+commit 64dd5bcf7925d48440dc81de6085c38bfc2a6c49
+Author: AmrElagoz <87224226+AmrAhmedElagoz@users.noreply.github.com>
+Date:   Tue Dec 7 23:46:58 2021 +0200
+
+    first commit
